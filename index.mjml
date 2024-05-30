@@ -1,0 +1,10 @@
+<mjml>
+  <mj-body>
+   <mj-section background-color="#ff8c00" background-size="cover" background-repeat="no-repeat">
+    <mj-column>
+    <mj-image src="imagens/back.png" width="600px" />
+    <mj-image src="imagens/rodape.png" />
+    <mj-image src="imagens/nori.png" />
+    
+    </mj-column>
+    </mj-section>
