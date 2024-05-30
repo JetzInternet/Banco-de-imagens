@@ -5,6 +5,8 @@
     <mj-image src="imagens/back.png" width="600px" />
     <mj-image src="imagens/rodape.png" />
     <mj-image src="imagens/nori.png" />
+    <mj-image src="imagens/nota.png" />
+    <mj-image src="imagens/fatura atrasada.png" />
     
     </mj-column>
     </mj-section>
